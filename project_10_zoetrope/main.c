@@ -2,7 +2,7 @@
  * project_10_zoetrope.c
  *
  * Created: 10/17/2019 4:25:03 PM
- * Author : Diego
+ * Author : ms111ds 
  */ 
 
 #define F_CPU 16000000UL

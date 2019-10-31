@@ -2,7 +2,7 @@
  * ArduinoProject9_motorizedPinwheel.c
  *
  * Created: 10/7/2019 6:24:30 PM
- * Author : Diego
+ * Author : ms111ds 
  */ 
 
 // CPU Macros

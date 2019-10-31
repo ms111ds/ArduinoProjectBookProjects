@@ -2,7 +2,7 @@
  * ArduinoProject7_hourglass.c
  *
  * Created: 9/11/2019 11:03:44 PM
- * Author : Diego
+ * Author : ms111ds 
  * external interrupt help from https://www.youtube.com/watch?v=aT1tU0EnSHw
  */
  
